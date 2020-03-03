@@ -56,3 +56,11 @@ os = "windows"
     [[qt5.download]]
     sha256 = "e1dc2ddf42c3a5c669362bc7eb56964645b639efd635aaee9a9b248190e72113"
     url = "https://github.com/barche/qt5_jll.jl/releases/download/qt5-v5.14.1+1/qt5.v5.14.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[qt5]]
+arch = "x86_64"
+git-tree-sha1 = "d4b9c4b8c48bc15f23a892d6662f8af3f8216872"
+os = "macos"
+
+    [[qt5.download]]
+    sha256 = "a95c02bce8a524f615aa7f3163fad3b75295d65764cb7778a26d09456643aea1"
+    url = "https://github.com/barche/qt5_jll.jl/releases/download/qt5-v5.14.1+1/qt5.v5.14.1.x86_64-apple-darwin14.tar.gz"
