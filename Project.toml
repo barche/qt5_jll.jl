@@ -1,0 +1,22 @@
+name = "qt5_jll"
+uuid = "f6bcde8e-82ad-569a-80a3-2cbc66694a45"
+version = "5.14.1+1"
+
+[deps]
+Libglvnd_jll = "7e76a0d4-f3c7-5321-8279-8d96eeed0f29"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Xorg_libxcb_jll = "c7cfdc94-dc32-55de-ac96-5a1b8d977c5b"
+Xorg_glproto_jll = "41595b7c-9afa-5287-863f-896d3380052a"
+xkbcommon_jll = "d8fb68d0-12a3-5cfd-a85a-d49703b185fd"
+Xorg_xcb_util_image_jll = "12413925-8142-5f55-bb0e-6d7ca50bb09b"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Fontconfig_jll = "a3f928ae-7b40-5064-980b-68af3947d34b"
+Xorg_xcb_util_wm_jll = "c22f9ab0-d5fe-5066-847c-f4bb1cd4e361"
+Xorg_libX11_jll = "4f6342f7-b3d2-589e-9d20-edeb45f2b2bc"
+Glib_jll = "7746bdde-850d-59dc-9ae8-88ece973131d"
+Xorg_xcb_util_renderutil_jll = "0d47668e-0667-5a69-a72c-f761630bfb7e"
+Xorg_libXext_jll = "1082639a-0dae-5f34-9b06-72781eeb8cb3"
+Xorg_xcb_util_keysyms_jll = "975044d2-76e6-5fbe-bf08-97ce7c6574c7"
+
+[compat]
+julia = "1.0"

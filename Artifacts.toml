@@ -1,0 +1,58 @@
+[[qt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aca4887282807a91851b430daa1c5cc0c5ddac67"
+os = "windows"
+
+    [[qt5.download]]
+    sha256 = "4abcebed06be7dd3d9b51bb798c3a0fb268c51a5ded90333347ba11d6a01822c"
+    url = "https://github.com/barche/qt5_jll.jl/releases/download/qt5-v5.14.1+1/qt5.v5.14.1.x86_64-w64-mingw32-cxx11.tar.gz"
+[[qt5]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c5ad96370075e9e5e6b6bb03ea087311173cbeb0"
+libc = "glibc"
+os = "linux"
+
+    [[qt5.download]]
+    sha256 = "27c156ab8cee297fc14535d23148aaadd2afc22d6b45b9d29ac2e7f11531b9fc"
+    url = "https://github.com/barche/qt5_jll.jl/releases/download/qt5-v5.14.1+1/qt5.v5.14.1.arm-linux-gnueabihf-cxx03.tar.gz"
+[[qt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed915c6d2cda80b0b4c61fde2131ac6ecd889908"
+libc = "glibc"
+os = "linux"
+
+    [[qt5.download]]
+    sha256 = "7c7302c7f3537d814a5141353b064524d31c4c37dcffce7c44c2444461d5d6f9"
+    url = "https://github.com/barche/qt5_jll.jl/releases/download/qt5-v5.14.1+1/qt5.v5.14.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[qt5]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ac35ce24a03113bd789f6793865c94f9127ba17"
+libc = "glibc"
+os = "linux"
+
+    [[qt5.download]]
+    sha256 = "5fcdfe2788ef98c5554f88d32d86a60ee643dda6f6702b926b48da4adc327f0d"
+    url = "https://github.com/barche/qt5_jll.jl/releases/download/qt5-v5.14.1+1/qt5.v5.14.1.arm-linux-gnueabihf-cxx11.tar.gz"
+[[qt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "97b2752d51c18464160a3dc4ed645ba96940c4f0"
+libc = "glibc"
+os = "linux"
+
+    [[qt5.download]]
+    sha256 = "51383c62702a290cd6425240b1288b64158dead79f822f11b3d6e03e00f0c698"
+    url = "https://github.com/barche/qt5_jll.jl/releases/download/qt5-v5.14.1+1/qt5.v5.14.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[qt5]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e92a004a19035b727a722c44dcab796d93349bb6"
+os = "windows"
+
+    [[qt5.download]]
+    sha256 = "e1dc2ddf42c3a5c669362bc7eb56964645b639efd635aaee9a9b248190e72113"
+    url = "https://github.com/barche/qt5_jll.jl/releases/download/qt5-v5.14.1+1/qt5.v5.14.1.x86_64-w64-mingw32-cxx03.tar.gz"
